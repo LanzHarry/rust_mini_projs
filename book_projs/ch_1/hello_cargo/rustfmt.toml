@@ -1,0 +1,4 @@
+# rustfmt configuration
+
+# indentation
+tab_spaces = 4
